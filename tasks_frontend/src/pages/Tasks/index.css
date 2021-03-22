@@ -1,0 +1,13 @@
+.task-header {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.table {
+  border-radius: 5px;
+}
